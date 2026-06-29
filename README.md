@@ -40,5 +40,8 @@ git push -u -f origin main
 
 ### To fix all ignored files at once
 git rm -r --cached .
+
 git add .
+
 git commit -m "Fix .gitignore and untrack excluded files"
+
