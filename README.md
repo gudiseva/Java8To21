@@ -38,4 +38,7 @@ git push -u origin main
 ### If you want to completely overwrite whatever is currently on GitHub with your local project files instead, use the force flag
 git push -u -f origin main
 
-
+### To fix all ignored files at once
+git rm -r --cached .
+git add .
+git commit -m "Fix .gitignore and untrack excluded files"
