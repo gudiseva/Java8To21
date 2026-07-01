@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bbaff5c4-09dd-4919-a7d5-da2628bfb325" name="Changes" comment="First Commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/java8to21/LombokTypeAnnotations.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java8to21/RepeatableAnnotations.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,8 +62,10 @@
     "Application.GenericClassMethod (1).executor": "Run",
     "Application.GenericClassMethod (2).executor": "Run",
     "Application.GenericClassMethod.executor": "Run",
+    "Application.LombokTypeAnnotations (1).executor": "Run",
     "Application.LombokTypeAnnotations.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.RepeatableAnnotations.executor": "Run",
     "Application.SwitchExpressions.executor": "Run",
     "Maven.java8to21 [clean].executor": "Run",
     "Maven.java8to21 [compile].executor": "Run",
@@ -87,46 +87,7 @@
     "settings.editor.selected.configurable": "advanced.settings"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.LombokTypeAnnotations (1)">
-    <configuration name="Base64EncodeDecode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java8to21.Base64EncodeDecode" />
-      <module name="java8to21" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="java8to21.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FunctionalInterfaceExample (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java8to21.FunctionalInterfaceExample" />
-      <module name="java8to21" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="java8to21.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FunctionalInterfaceLambda" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java8to21.FunctionalInterfaceLambda" />
-      <module name="java8to21" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="java8to21.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.RepeatableAnnotations (2)">
     <configuration name="LombokTypeAnnotations (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="java8to21.LombokTypeAnnotations" />
       <module name="java8to21" />
@@ -153,13 +114,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="RepeatableAnnotations (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java8to21.RepeatableAnnotations" />
+      <module name="java8to21" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java8to21.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RepeatableAnnotations (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java8to21.RepeatableAnnotations" />
+      <module name="java8to21" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java8to21.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RepeatableAnnotations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java8to21.RepeatableAnnotations" />
+      <module name="java8to21" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java8to21.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RepeatableAnnotations (2)" />
+        <item itemvalue="Application.RepeatableAnnotations (1)" />
+        <item itemvalue="Application.RepeatableAnnotations" />
         <item itemvalue="Application.LombokTypeAnnotations (1)" />
         <item itemvalue="Application.LombokTypeAnnotations" />
-        <item itemvalue="Application.Base64EncodeDecode" />
-        <item itemvalue="Application.FunctionalInterfaceLambda" />
-        <item itemvalue="Application.FunctionalInterfaceExample (4)" />
       </list>
     </recent_temporary>
   </component>
