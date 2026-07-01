@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bbaff5c4-09dd-4919-a7d5-da2628bfb325" name="Changes" comment="First Commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/java8to21/DiamondGenericClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java8to21/DiamondOperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java8to21/FunctionalInterfaceLambda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java8to21/GenericClassMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java8to21/Base64EncodeDecode.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +50,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.Base64EncodeDecode.executor": "Run",
     "Application.DiamondGenericClass.executor": "Run",
     "Application.DiamondOperator.executor": "Run",
     "Application.FunctionalInterfaceExample (1).executor": "Run",
@@ -88,9 +85,9 @@
     "settings.editor.selected.configurable": "advanced.settings"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.FunctionalInterfaceLambda">
-    <configuration name="FunctionalInterfaceExample (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java8to21.FunctionalInterfaceExample" />
+  <component name="RunManager" selected="Application.Base64EncodeDecode">
+    <configuration name="Base64EncodeDecode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java8to21.Base64EncodeDecode" />
       <module name="java8to21" />
       <extension name="coverage">
         <pattern>
@@ -154,26 +151,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GenericClassMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java8to21.GenericClassMethod" />
-      <module name="java8to21" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="java8to21.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Base64EncodeDecode" />
         <item itemvalue="Application.FunctionalInterfaceLambda" />
         <item itemvalue="Application.FunctionalInterfaceExample (4)" />
         <item itemvalue="Application.FunctionalInterfaceExample (3)" />
         <item itemvalue="Application.FunctionalInterfaceExample (2)" />
-        <item itemvalue="Application.FunctionalInterfaceExample (1)" />
       </list>
     </recent_temporary>
   </component>
